@@ -1,0 +1,5 @@
+ultralytics==8.4.208
+opencv-python==4.14.0.94
+PyYAML==6.0.3
+jupyterlab>=4,<5
+ipykernel>=6,<8
