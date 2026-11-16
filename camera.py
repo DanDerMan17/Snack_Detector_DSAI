@@ -1,7 +1,6 @@
 import argparse
 from datetime import datetime
 from pathlib import Path
-from re import VERBOSE
 
 import cv2
 
