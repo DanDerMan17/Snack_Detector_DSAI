@@ -1,0 +1,10 @@
+path: /home/fekdac/Development/htl/5/DSAI/presentation/snack-detection/data/dataset
+train: images/train
+val: images/val
+names:
+  0: Bounty
+  1: Mars
+  2: MilkyWay
+  3: Skittles
+  4: Snickers
+  5: Twix

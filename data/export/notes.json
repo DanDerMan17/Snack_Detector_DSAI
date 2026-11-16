@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Bounty"
+    },
+    {
+      "id": 1,
+      "name": "Mars"
+    },
+    {
+      "id": 2,
+      "name": "MilkyWay"
+    },
+    {
+      "id": 3,
+      "name": "Skittles"
+    },
+    {
+      "id": 4,
+      "name": "Snickers"
+    },
+    {
+      "id": 5,
+      "name": "Twix"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
