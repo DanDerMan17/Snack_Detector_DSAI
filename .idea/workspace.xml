@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b60a204e-80a3-473f-afac-debccdb6a378" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Lara-joy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DanDerMan17/Snack_Detector_DSAI.git",
+    "accountId": "ec99e0b6-f1e0-49f4-99df-573d19ca4434"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4835875145681068" />
+      <entry key="MS500" value="3.2727478169233097" />
+      <entry key="S2" value="5.395407273578843" />
+      <entry key="S5" value="6.527594862168233" />
+      <entry key="S10" value="8.589263039127948" />
+      <entry key="S30" value="16.778538703692703" />
+      <entry key="S60" value="22.75040509636028" />
+      <entry key="M2" value="27.75894689065209" />
+      <entry key="M5" value="35.207041474862606" />
+      <entry key="M10" value="41.17247940390837" />
+      <entry key="M15" value="44.066981266476446" />
+      <entry key="M30" value="47.61859144463041" />
+      <entry key="H1" value="49.69309926027461" />
+      <entry key="H2" value="50.81577449295452" />
+      <entry key="H4" value="51.399966304394944" />
+      <entry key="D1" value="51.898874417447864" />
+      <entry key="W1" value="51.9855257979705" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.3449723294137328" />
+      <entry key="MS500" value="3.125049045959907" />
+      <entry key="S2" value="5.33323903758247" />
+      <entry key="S5" value="6.498303851668131" />
+      <entry key="S10" value="8.569604934318145" />
+      <entry key="S30" value="16.76441859500734" />
+      <entry key="S60" value="22.74046698868465" />
+      <entry key="M2" value="27.752770527357224" />
+      <entry key="M5" value="35.20383244334931" />
+      <entry key="M10" value="41.17056193102911" />
+      <entry key="M15" value="44.065599020208204" />
+      <entry key="M30" value="47.61783563094893" />
+      <entry key="H1" value="49.69270225781162" />
+      <entry key="H2" value="50.81557079681869" />
+      <entry key="H4" value="51.39986310107574" />
+      <entry key="D1" value="51.898857023675035" />
+      <entry key="W1" value="51.98552330834749" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MNjVScnea1r8STuU2IeFrocvQn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/laraj/OneDrive/Desktop/Arbeit/5. Klasse/DSAI/Snack_Detector_DSAI",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9e1d95ea72ba-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.329" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b60a204e-80a3-473f-afac-debccdb6a378" name="Changes" comment="" />
+      <created>1795197943171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795197943171</updated>
+      <workItem from="1795197945385" duration="1697000" />
+    </task>
+    <servers />
+  </component>
+</project>
