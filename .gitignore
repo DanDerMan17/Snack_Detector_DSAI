@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 .idea/workspace.xml
+*.pt
+mobileclip_blt.ts
+.mobileclip_blt.ts.*.part
+.ipynb_checkpoints/
